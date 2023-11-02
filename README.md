@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm rasielkumar</h1>
-<h3 align="center">A developer from Germany</h3>
+<h1 align="center">Hallo 👋, ich bin Rasielkumar</h1>
+<h3 align="center">Ein Entwickler aus Deutschland</h3>
 
 - 🌱Ich lerne gerade **React Native, C++**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Lustige Tatsache **Ich bin lustig**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
