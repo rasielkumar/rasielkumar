@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm rasielkumar</h1>
 <h3 align="center">A developer from Germany</h3>
 
-- 🌱 I’m currently learning **React Native,C++**
+- 🌱Ich lerne gerade **React Native, C++**
 
 - ⚡ Fun fact **I am Funny**
 
