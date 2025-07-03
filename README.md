@@ -29,17 +29,3 @@ Technologien & Werkzeuge
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 </p>
-Variante 2 (Klassisch und Fokussiert)
-<h1 align="center">Rasiel - Fachinformatiker Anwendungsentwicklung</h1>
-<p align="center">📍 Standort: Deutschland</p>
-Über mich
-Ich bin ein angehender Fachinformatiker für Anwendungsentwicklung im letzten Ausbildungsjahr mit einem starken Fokus auf die Web- und Softwareentwicklung. Meine Ausbildung absolviere ich beim SRH Berufsbildungswerk Neckargemünd, ergänzt durch wertvolle Praxiserfahrung in einem Langzeitpraktikum bei der Innoversa Factory GmbH.
-Dort konnte ich meine Fähigkeiten in der Anwendung moderner Technologien unter Beweis stellen und arbeite selbstständig und zuverlässig an der Umsetzung von Projekten.
-Ausbildungsschwerpunkte & Kernkompetenzen
- * Frontend-Entwicklung: Sicherer Umgang mit HTML5, CSS3 und JavaScript.
- * Backend-Entwicklung: Fundierte Kenntnisse in der objektorientierten Programmierung mit Java sowie Erfahrung mit PHP.
- * Datenbanken: Praktische Erfahrung in der Arbeit mit SQL-Datenbanken (z.B. MySQL) und NoSQL-Datenbanken (MongoDB).
- * Weitere Kenntnisse: Vertraut mit Content-Management-Systemen (CMS), der Android-Entwicklung, Unity und dem Linux-Betriebssystem.
- * 🌱 Aktuell lerne ich: Ich erweitere kontinuierlich meine Java-Kenntnisse und beschäftige mich intensiv mit neuen Frameworks.
-Kontakt
-Ich freue mich über eine professionelle Vernetzung und den Austausch über neue Projekte und Technologien.
